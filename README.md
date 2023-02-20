@@ -1,6 +1,4 @@
 # Electro-Magnetic-Fields-Research-Project
-Electro-Magnetic Fields Course Research Project
-
 Here we present a research project in Electro-Magnetic Fields course (2nd year Electrical Engineering - Tel Aviv University)
 in which we analyze numerically, using the moments method (see theoretical background files), the charge distribution and capacitance over
 an equi-potential PEC plates.
