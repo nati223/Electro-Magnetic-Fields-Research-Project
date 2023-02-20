@@ -3,8 +3,8 @@ Here we present a research project in Electro-Magnetic Fields course (2nd year E
 in which we analyze numerically, using the moments method (see theoretical background files), the charge distribution and capacitance over
 an equi-potential PEC plates.
 
-The code is an approximated analysis tool, not always yielding the expected theoretical results.
-During the research, we confornted in some occasions results with significant relative errors. A lot of the challenge is deep understanding of
+The code is an approximated analysis tool, not always yielding the expected theoretical results. It serves us to distill insights of the physical
+problem. During the research, we confornted in some occasions results with significant relative errors. A lot of the challenge is deep understanding of
 the physical assumptions we had to make in the realization of our algorithm and how they are reflected in it.
 We hope you will enjoy the reading.
 
